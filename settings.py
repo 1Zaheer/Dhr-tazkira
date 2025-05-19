@@ -1,0 +1,1 @@
+# settings.py placeholder with 'booking' in INSTALLED_APPS
