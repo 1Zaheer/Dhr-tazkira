@@ -1,2 +1,1 @@
-1# Dhr-tazkira
-د نوبت اخیستل
+Dhr-tazkira
